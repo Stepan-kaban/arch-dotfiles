@@ -4,7 +4,6 @@
   "height": 40,
   "modules-left": ["hyprland/workspaces", "hyprland/window"],
   "modules-right": ["tray", "group/hw", "group/control", "clock"],
-  // Modules configuratio1
   "hyprland/workspaces": {
     "on-click": "activate",
     "format": "{icon}",
